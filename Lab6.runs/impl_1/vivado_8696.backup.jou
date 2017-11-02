@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Tue Oct 17 14:24:07 2017
+# Process ID: 8696
+# Current directory: C:/Users/Admin/Documents/Vivado/Lab6/Lab6.runs/impl_1
+# Command line: vivado.exe -log kb_monitor.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source kb_monitor.tcl -notrace
+# Log file: C:/Users/Admin/Documents/Vivado/Lab6/Lab6.runs/impl_1/kb_monitor.vdi
+# Journal file: C:/Users/Admin/Documents/Vivado/Lab6/Lab6.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source kb_monitor.tcl -notrace
