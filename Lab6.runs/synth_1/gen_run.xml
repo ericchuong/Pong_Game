@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1509659455">
-  <File Type="RDS-PROPCONSTRS" Name="pong_top_an_drc_synth.rpt"/>
   <File Type="PA-TCL" Name="pong_top_an.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="pong_top_an_drc_synth.rpt"/>
   <File Type="RDS-RDS" Name="pong_top_an.vds"/>
   <File Type="RDS-UTIL" Name="pong_top_an_utilization_synth.rpt"/>
   <File Type="RDS-UTIL-PB" Name="pong_top_an_utilization_synth.pb"/>

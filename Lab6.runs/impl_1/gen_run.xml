@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1509659456">
-  <File Type="PWROPT-DRC" Name="pong_top_an_drc_pwropted.rpt"/>
-  <File Type="OPT-METHODOLOGY-DRC" Name="pong_top_an_methodology_drc_opted.rpt"/>
-  <File Type="INIT-TIMING" Name="pong_top_an_timing_summary_init.rpt"/>
   <File Type="ROUTE-PWR-RPX" Name="pong_top_an_power_routed.rpx"/>
   <File Type="PA-TCL" Name="pong_top_an.tcl"/>
-  <File Type="OPT-HWDEF" Name="pong_top_an.hwdef"/>
+  <File Type="INIT-TIMING" Name="pong_top_an_timing_summary_init.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="pong_top_an_methodology_drc_opted.rpt"/>
+  <File Type="PWROPT-DRC" Name="pong_top_an_drc_pwropted.rpt"/>
   <File Type="RDI-RDI" Name="pong_top_an.vdi"/>
   <File Type="OPT-DCP" Name="pong_top_an_opt.dcp"/>
+  <File Type="OPT-HWDEF" Name="pong_top_an.hwdef"/>
   <File Type="OPT-DRC" Name="pong_top_an_drc_opted.rpt"/>
   <File Type="OPT-TIMING" Name="pong_top_an_timing_summary_opted.rpt"/>
   <File Type="PWROPT-DCP" Name="pong_top_an_pwropt.dcp"/>
@@ -31,14 +31,14 @@
   <File Type="ROUTE-BLACKBOX-DCP" Name="pong_top_an_routed_bb.dcp"/>
   <File Type="ROUTE-DRC" Name="pong_top_an_drc_routed.rpt"/>
   <File Type="ROUTE-DRC-PB" Name="pong_top_an_drc_routed.pb"/>
-  <File Type="BG-BIN" Name="pong_top_an.bin"/>
   <File Type="ROUTE-DRC-RPX" Name="pong_top_an_drc_routed.rpx"/>
-  <File Type="BG-DRC" Name="pong_top_an.drc"/>
+  <File Type="BG-BIN" Name="pong_top_an.bin"/>
   <File Type="ROUTE-METHODOLOGY-DRC" Name="pong_top_an_methodology_drc_routed.rpt"/>
-  <File Type="BITSTR-MSK" Name="pong_top_an.msk"/>
+  <File Type="BG-DRC" Name="pong_top_an.drc"/>
   <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="pong_top_an_methodology_drc_routed.rpx"/>
-  <File Type="BG-BGN" Name="pong_top_an.bgn"/>
+  <File Type="BITSTR-MSK" Name="pong_top_an.msk"/>
   <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="pong_top_an_methodology_drc_routed.pb"/>
+  <File Type="BG-BGN" Name="pong_top_an.bgn"/>
   <File Type="ROUTE-PWR" Name="pong_top_an_power_routed.rpt"/>
   <File Type="ROUTE-PWR-SUM" Name="pong_top_an_power_summary_routed.pb"/>
   <File Type="ROUTE-STATUS" Name="pong_top_an_route_status.rpt"/>
